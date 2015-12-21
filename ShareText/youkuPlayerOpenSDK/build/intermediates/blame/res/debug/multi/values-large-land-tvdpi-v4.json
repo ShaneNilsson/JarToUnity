@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\values-large-land-tvdpi-v4\\values-large-land-tvdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\exploded-aar\\ShareText\\youkuLoginSDK\\unspecified\\res\\values-large-land-tvdpi-v4\\values-large-land-tvdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 51,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 52,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\exploded-aar\\ShareText\\youkuLoginSDK\\unspecified\\res\\values-large-land-tvdpi-v4\\values-large-land-tvdpi-v4.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 52,
+                        "endOffset": 155
+                    }
+                }
+            }
+        ]
+    }
+]

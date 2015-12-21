@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\topbar_close_icon.png",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\exploded-aar\\ShareText\\youkuLoginSDK\\unspecified\\res\\drawable-xlarge-v4\\topbar_close_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\saosao_play.png",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\exploded-aar\\ShareText\\youkuLoginSDK\\unspecified\\res\\drawable-xlarge-v4\\saosao_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\btn_more.png",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\exploded-aar\\ShareText\\youkuLoginSDK\\unspecified\\res\\drawable-xlarge-v4\\btn_more.png"
+    },
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\topbar_share_icon.png",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\exploded-aar\\ShareText\\youkuLoginSDK\\unspecified\\res\\drawable-xlarge-v4\\topbar_share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\btn_saosao.png",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\exploded-aar\\ShareText\\youkuLoginSDK\\unspecified\\res\\drawable-xlarge-v4\\btn_saosao.png"
+    },
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\channel_not_loaded_icon_play.png",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\exploded-aar\\ShareText\\youkuLoginSDK\\unspecified\\res\\drawable-xlarge-v4\\channel_not_loaded_icon_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\detail_card_series_return.png",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\exploded-aar\\ShareText\\youkuLoginSDK\\unspecified\\res\\drawable-xlarge-v4\\detail_card_series_return.png"
+    },
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\topbar_refresh_icon.png",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\exploded-aar\\ShareText\\youkuLoginSDK\\unspecified\\res\\drawable-xlarge-v4\\topbar_refresh_icon.png"
+    }
+]

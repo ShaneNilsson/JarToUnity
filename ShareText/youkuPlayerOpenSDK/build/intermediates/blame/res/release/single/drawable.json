@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable\\yp_progress_holo_light.xml",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\src\\main\\res\\drawable\\yp_progress_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable\\yp_progressthumbstyle.xml",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\src\\main\\res\\drawable\\yp_progressthumbstyle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_activity_login_button_click.xml",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\exploded-aar\\ShareText\\youkuLoginSDK\\unspecified\\res\\drawable\\dialog_activity_login_button_click.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_homeup_withlogo_selector.xml",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\exploded-aar\\ShareText\\youkuLoginSDK\\unspecified\\res\\drawable\\actionbar_homeup_withlogo_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable\\soku_layout_bottom_cover.9.png",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\exploded-aar\\ShareText\\youkuLoginSDK\\unspecified\\res\\drawable\\soku_layout_bottom_cover.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable\\other_person_gridview_item_selector.xml",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\exploded-aar\\ShareText\\youkuLoginSDK\\unspecified\\res\\drawable\\other_person_gridview_item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_bg.xml",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\exploded-aar\\ShareText\\youkuLoginSDK\\unspecified\\res\\drawable\\actionbar_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable\\yp_progressbarstyle.xml",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\src\\main\\res\\drawable\\yp_progressbarstyle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable\\saosao_btn_shape.xml",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\exploded-aar\\ShareText\\youkuLoginSDK\\unspecified\\res\\drawable\\saosao_btn_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable\\webview_progressbar_style.xml",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\exploded-aar\\ShareText\\youkuLoginSDK\\unspecified\\res\\drawable\\webview_progressbar_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_saosao_selector.xml",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\exploded-aar\\ShareText\\youkuLoginSDK\\unspecified\\res\\drawable\\actionbar_saosao_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\release\\drawable\\btn_homepage_title_textcolor.xml",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\exploded-aar\\ShareText\\youkuLoginSDK\\unspecified\\res\\drawable\\btn_homepage_title_textcolor.xml"
+    }
+]

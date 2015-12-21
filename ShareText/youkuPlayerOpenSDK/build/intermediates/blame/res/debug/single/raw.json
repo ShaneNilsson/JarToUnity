@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\raw\\mediaplayer_configuration.xml",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\src\\main\\res\\raw\\mediaplayer_configuration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\raw\\aes.lua",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\src\\main\\res\\raw\\aes.lua"
+    },
+    {
+        "merged": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "C:\\Users\\Tyler\\AndroidStudioProjects\\ShareText\\youkuPlayerOpenSDK\\build\\intermediates\\exploded-aar\\ShareText\\youkuLoginSDK\\unspecified\\res\\raw\\beep.ogg"
+    }
+]
